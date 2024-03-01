@@ -2,7 +2,7 @@
 
 ## 📲 Download
 
- You can download this project on your smartphone by [clicking here](https://raw.githubusercontent.com/c-Alvinn/Flow-Free-Copy/main/Flow.apk).
+ You can download the APK of this project on your smartphone by [clicking here](https://raw.githubusercontent.com/c-Alvinn/Flow-Free-Copy/main/Flow.apk).
 
 ## 📖 About the project
 This project was inspired by the game Flow Free from Duck Duck Games, but not only that, it is also part of the extension project for the 4th semester of ADS (Analysis and Systems Development) at IFTM-CAUPT, which will be presented at IFEX. <br>
@@ -28,7 +28,7 @@ Flow is a game that involves connecting colored dots on a board, filling the ent
 |:---:|:---:|:---:|
 | **Initial Level** | **Solving Level** | **Level Completed** |
 
-## 🦾 Technologies used
+## 👨‍💻 Technologies used
 <div style="display: flex;">
  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
